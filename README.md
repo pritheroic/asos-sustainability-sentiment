@@ -1,6 +1,9 @@
 # asos-sustainability-sentiment
 This project analyzes public sentiment on Twitter regarding ASOS's sustainability efforts, providing insights into consumer perceptions and trends. It leverages data collection, natural language processing (NLP), and visualizations to assess the impact of sustainability initiatives on brand perception.
 
+### Data Disclaimer
+The data used in this project was collected from Twitter's API and is publicly available. All data has been anonymized and processed in compliance with Twitter's Developer Agreement and the UK GDPR guidelines. No private or sensitive user information has been stored or shared in this repository.
+
 1. Project Title
 
 # Fashion Forward: Mapping Sustainability Sentiment for ASOS on Twitter
